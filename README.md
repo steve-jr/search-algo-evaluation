@@ -1,5 +1,5 @@
-Ensure you have python 3 set up on your local machine
+> Set up python3 & open the terminal in the directory then run `python3 main.py`
 
-Open terminal in directory, and run `python3 main.py`
+> That's all, easy peasy! 🙂‍↔️
 
-That's all, thanks!
+### Code meant to be a class project submission, hence the format.
